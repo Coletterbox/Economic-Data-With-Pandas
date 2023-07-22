@@ -1,1 +1,2 @@
-# Economic-Data-With-Pandas
+# Economic Data with Pandas
+## (And Other Things)
